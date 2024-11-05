@@ -1,3 +1,5 @@
+[Devpost Link](https://devpost.com/software/roommaite)
+
 ## Inspiration
 
 Our platform addresses the need for personalized roommate matching, especially as urbanization and rising rental costs drive shared living. Traditional methods often overlook deeper lifestyle and personality traits crucial for compatibility. Leveraging advancements in NLP and inspired by personalized design in social and dating apps, we created a solution that’s both user-friendly and highly scalable. Our platform is not limited to specific apartments or colleges, making it accessible to a wide range of users seeking meaningful and harmonious living arrangements.
