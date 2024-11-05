@@ -54,6 +54,6 @@ At the heart of our matching algorithm is a transformer model that vectorizes us
 - **Data Pipeline:** User responses from the front end are passed through an API to the transformer model for vectorization, then stored in the InterSystems database.
 - **Asynchronous Matching:** After vectorization, the back end asynchronously calculates similarity scores, returning ranked matches to the front end for display on the Match Results page.
 
-## What’s Next For roommATe
+## What’s Next For roommAIte
 
 We have developed a GenAI pipeline capable of generating example roommates. Our next step is to integrate a calibration feature that utilizes these generated profiles to assess the current user’s preferences by asking targeted questions. This calibration will enhance our matching process, providing users with more accurate and personalized roommate suggestions.
